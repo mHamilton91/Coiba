@@ -1,0 +1,31 @@
+.background-image {
+    height: 100vh;
+    background-image: url('wp2019613.jpg');
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    width: 100vw;
+    position: absolute;
+    top:0;
+    z-index: -100;
+}
+
+.navbar {
+    padding: 0 50px 0 50px;
+    
+}
+
+.navbar-brand {
+    font-family: "Lobster";
+    font-weight: 700;
+    font-size: 4rem;
+    color: white;
+}
+
+.nav-item {
+    color: white;
+    margin-right: 2rem;
+}
+
+.navbar-toggler-icon, .navbar-toggler {
+    color: white;
+}

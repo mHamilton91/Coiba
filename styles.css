@@ -1,0 +1,22 @@
+body {
+    background-color: blue;
+}
+
+.background-image {
+    height: 100vh;
+    background-image: url('wp2019613.jpg');
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    width: 100vw;
+    position: absolute;
+    top:0;
+    z-index: -100;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+}
+
+.navbar-toggler:hover {
+    color: red !important;
+}
