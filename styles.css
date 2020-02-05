@@ -1,6 +1,4 @@
-body {
-    background-color: blue;
-}
+
 
 .background-image {
     height: 100vh;
@@ -17,6 +15,22 @@ body {
     outline: none;
 }
 
-.navbar-toggler:hover {
-    color: red !important;
+.palm-icon {
+    width: auto;
+    height: 8vh;
+}
+
+.main-jumbo {
+    margin-top: 15vh;
+    background-color: rgba(99, 99, 99, 20%);
+    padding: 10vh;
+}
+
+.title-name {
+    font-size: 8rem;
+}
+
+.title-tag {
+    
+    font-size: 1.5rem;
 }
