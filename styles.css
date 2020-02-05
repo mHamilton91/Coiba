@@ -21,16 +21,18 @@
 }
 
 .main-jumbo {
-    margin-top: 15vh;
+    margin-top: 20vh;
     background-color: rgba(99, 99, 99, 20%);
-    padding: 10vh;
+    padding: 5vh 10vh 5vh 10vh;
 }
 
 .title-name {
-    font-size: 8rem;
+    font-size: 8vh;
+    font-family: "Lobster";
+    padding-left: 10vh
 }
 
 .title-tag {
-    
+    padding: 10px 0 0 20vh;
     font-size: 1.5rem;
 }
